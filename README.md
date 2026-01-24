@@ -19,4 +19,5 @@ My personal dotfiles for Arch Linux. This repository is not actively maintained.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81041d7c-dbdf-4e5b-8a3b-3edaf0441811" />
 
 *The terminal colors are changed using pywal
+
 *Desktop wallpapers are from: (https://github.com/NischalDawadi/Wallpapers/tree/master)
