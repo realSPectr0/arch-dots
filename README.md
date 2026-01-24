@@ -16,3 +16,4 @@ My personal dotfiles for Arch Linux. This repository is not actively maintained.
 
 ## Theme 2
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03e4b052-3ba1-471b-921d-e75982f7f310" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81041d7c-dbdf-4e5b-8a3b-3edaf0441811" />
