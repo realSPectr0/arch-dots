@@ -23,4 +23,4 @@ At this point this just shows the evolution of my rice :D
 
 *The terminal colors are changed using pywal and the waybar colors are changed using matugen theming
 
-*Desktop wallpapers are from: (https://github.com/NischalDawadi/Wallpapers/tree/master)
+*Desktop wallpapers are from: (https://github.com/realSPectr0/wallpapers)
