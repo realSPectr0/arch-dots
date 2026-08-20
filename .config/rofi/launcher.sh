@@ -12,6 +12,11 @@
 
 dir="$HOME/rofi/files/launchers/type-6"
 theme='style-6'
+theme_sync="$HOME/.config/hypr/scripts/rofi-wallpaper-theme.py"
+
+if [ -x "$theme_sync" ]; then
+  python3 "$theme_sync" >/dev/null 2>&1 || true
+fi
 
 ## Run
 rofi \
