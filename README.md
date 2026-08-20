@@ -1,7 +1,9 @@
 
 # dot-files
-My personal dotfiles for Arch Linux. This repository is not actively maintained. 
+My personal dotfiles for Arch Linux. This repository is not actively maintained. But I try to keep it updated. 
 At this point this just shows the evolution of my rice :D
+
+Last time updated: 8/20/26
 
 ## Overview
 
